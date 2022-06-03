@@ -12,3 +12,15 @@
 .select {
   margin-bottom: 40px;
 }
+.map {
+  position: relative;
+  width: 1000px;
+  height: 600px;
+  background: rgb(205, 203, 203);
+}
+.loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
